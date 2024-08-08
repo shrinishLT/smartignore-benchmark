@@ -42,3 +42,8 @@
     ```
 
 For now if images sizes are diff, then we crop the images for comparison.
+
+Check results over here : https://eyes.applitools.com/app/test-results/00000251679172704040/?accountId=CfAK6A8gQUu241SoODU2OA__
+
+email : vhanbatte@iitkgp.ac.in
+password: Shrinish@123

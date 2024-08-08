@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 from applitools.images import Eyes, Target
 import requests
-from constants import SMART_IGNORE_STAGE_URL, BASE_DIFF_URL, COMP_DIFF_URL, APPLITOOLS_API_KEY
+from constants import SMART_IGNORE_STAGE_URL, BASE_DIFF_URL, COMP_DIFF_URL, APPLITOOLS_API_KEY, USERNAME
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG)
@@ -95,7 +95,7 @@ def main():
             applitools_request(processed_base_path, processed_compare_path, eyes, i)
             
             logging.debug(f'Closing Eyes session for test {i+1}')
-            eyes.close(False)
+            eyes.close(True)
         except Exception as e:
             logging.error(f'Error during comparison for test {i+1}: {e}')
     
