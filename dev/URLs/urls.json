@@ -1,0 +1,40 @@
+{
+    "input": [
+        
+        {
+            "baseURL": "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8d19cdd3-380b-4a0b-b952-d0dbb9ebf7d2/98686a44-f2e2-437b-bd6f-8e163f2c4f34/base-screenshots/328490c6-e247-454a-98ef-cd2f98ce8be7.png",
+            "compareURL": "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8d19cdd3-380b-4a0b-b952-d0dbb9ebf7d2/f489538d-327d-4531-afe6-d185fa9feb77/base-screenshots/9ddc53ac-7a83-4098-9ebd-45665b4d5708.png"
+        },
+        {
+            "baseURL": "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8d19cdd3-380b-4a0b-b952-d0dbb9ebf7d2/f2a88e0e-5299-4c44-b7ca-aba55f4c24f3/base-screenshots/7da9383f-8bc1-49f0-acf3-28ce92731731.png",
+            "compareURL": "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8d19cdd3-380b-4a0b-b952-d0dbb9ebf7d2/e8347d90-d616-4be8-90c6-454c407692b3/base-screenshots/96430d99-f15e-4539-a7b4-aacccd12a3f2.png"
+        },
+        {
+            "baseURL": "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8d19cdd3-380b-4a0b-b952-d0dbb9ebf7d2/df4dfa58-d3fd-4238-8f01-5ce6941bb208/base-screenshots/77d43a78-1e85-41a8-b632-b83166a3772b.png",
+            "compareURL": "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8d19cdd3-380b-4a0b-b952-d0dbb9ebf7d2/f489538d-327d-4531-afe6-d185fa9feb77/base-screenshots/c174f5b6-91f2-4a5c-a67b-230e667097e3.png"
+        },
+        {
+            "baseURL" : "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8cc831a8-bd4b-4232-9c1a-e3a6370e17c8/74d51be0-f302-476f-95e7-9e35b95d7fec/base-screenshots/cde69ef1-7e05-4dc5-a00d-2db42500a098.png",
+            "compareURL" : "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8cc831a8-bd4b-4232-9c1a-e3a6370e17c8/81bfa1bd-7e64-40a8-9fd9-648e3e8fa036/base-screenshots/6d77e987-a05b-4121-ac2e-fb922bcf0277.png"
+        },
+        {
+            "baseURL" : "https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33244476/aae3e333-4f11-45f9-8304-e94f4fea5c82/5c116449-4694-48a8-b239-cb4ff5425884/base-screenshots/Vyaparapp_chrome_                Galaxy_S24_portrait.png",
+            "compareURL" : "https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33244476/aae3e333-4f11-45f9-8304-e94f4fea5c82/49d7618e-5364-49f9-ab39-f30d538e0c3b/base-screenshots/Vyaparapp_chrome_                Galaxy_S24_portrait.png"
+        },
+        {
+            "baseURL" : "https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33244476/5d1e72ff-7ef5-401e-a9f2-94c85b0200fb/5f452e79-f92f-4529-b31b-6569bcb3a8e3/base-screenshots/Minitab_chrome_                    Galaxy_S24_portrait.png",
+            "compareURL" : "https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33244476/5d1e72ff-7ef5-401e-a9f2-94c85b0200fb/b5b76b65-9ac2-45d7-a037-91ac81232ab7/base-screenshots/Minitab_chrome_                    Galaxy_S24_portrait.png"
+        } 
+
+    ],
+    "sample" : 
+    {
+        "baseURL": "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8d19cdd3-380b-4a0b-b952-d0dbb9ebf7d2/98686a44-f2e2-437b-bd6f-8e163f2c4f34/base-screenshots/5ac5aae0-36af-4cab-9d5e-22ff55c5ab4d.png",
+        "compareURL": "https://automation-dotlapse-artefact.lambdatest.com/org-486308/8d19cdd3-380b-4a0b-b952-d0dbb9ebf7d2/38cc940b-ae1d-4c9e-8b84-71f7aa5eccea/base-screenshots/c99c4825-15c2-422d-87e8-d45826adb977.png"
+    },
+    "template" :
+    {
+        "baseURL" : "",
+        "compareURL" : ""
+    } 
+}
