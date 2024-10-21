@@ -3,15 +3,12 @@ import numpy as np
 from applitools.images import Eyes
 from constants import  BASE_DIFF_URL, COMP_DIFF_URL, APPLITOOLS_API_KEY
 
-# Configure logging
 logging.basicConfig(level=logging.DEBUG)
 
 if __name__ == '__main__':
-    # main()
     logging.debug('Initializing Eyes SDK')
     eyes = Eyes()
     eyes.api_key = APPLITOOLS_API_KEY
-    
     
     try:
         logging.debug(f'Opening Eyes session for test Static')
